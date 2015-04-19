@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCase name="BasicCalculation">
+<Action name="Reset" classpath="home.jmstudios.calc.test.action.Reset">
+</Action>
+<Action name="EnterBasicExpression" classpath="home.jmstudios.calc.test.action.EnterBasicExpression">
+<Parameter name="inputExpression">7*8=+3=</Parameter>
+<Parameter name="expectedResult">59</Parameter>
+</Action>
+</TestCase>

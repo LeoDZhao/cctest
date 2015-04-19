@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestSuite name="AutomationTest">
+<TestCase name="TC_BasicCalculation.xml"></TestCase>
+<TestCase name="TC_ExpectedFailure.xml"></TestCase>
+<TestCase name="TC_ChangePrecision.xml"></TestCase>
+<TestCase name="TC_TrigonometricFunction.xml"></TestCase>
+</TestSuite>

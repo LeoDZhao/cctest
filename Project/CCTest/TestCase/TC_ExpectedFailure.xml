@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCase name="ExpectedFailure">
+<Action name="Reset" classpath="home.jmstudios.calc.test.action.Reset">
+</Action>
+<Action name="EnterBasicExpression" classpath="home.jmstudios.calc.test.action.EnterBasicExpression">
+<Parameter name="inputExpression">1+1=</Parameter>
+<Parameter name="expectedResult">3</Parameter>
+</Action>
+</TestCase>

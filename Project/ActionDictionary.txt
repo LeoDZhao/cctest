@@ -1,0 +1,26 @@
+1.ChangePrecision
+Desc£ºIn Setting page, click "Precision" item, change the precision value.
+parameter1£ºThe value to enter
+parameter2: The expected value shown in edit text after this action
+
+2.GoToSetting
+Desc: In main page, click workflow button, then click "Settings"
+No Parameter
+
+3.EnterBasicExpression
+Desc: In main page, click button according to expression
+Parameter1: The expression to enter, for example "7*8=+3="
+Parameter2: The expected text shown in result edit text, for example "59"
+
+4.EnterAdvancedExpression
+Des: In main page, drag up the slider at bottom, then enter expression and dismiss the slider
+Parameter1: The expression to enter, for example "sin"
+Parameter2: The expected text shown in result edit text, for example "sin()"
+
+5.GoBack
+Desc: Press back
+No Parameter
+
+6.Reset
+Desc: Reset the calculation result by click "CE" button
+No Parameter

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Constants>
+<Item key = "ID_RESULT_EDITTEXT">editText1</Item>
+<Item key = "ID_RESET_BUTTON">buttonReset</Item>
+<Item key = "ID_OK_BUTTON">button1</Item>
+<Item key = "ID_SLIDING_DRAWER">slidingDrawer1</Item>
+<Item key = "ID_HANDLE">handle</Item>
+<Item key = "ID_ACTIONBAR">action_bar</Item>
+<Item key = "TEXT_SETTING_ITEM_PRECISION">Precision</Item>
+<Item key = "TEXT_SETTING_BUTTON">Settings</Item>
+<Item key = "TEXT_VALUE_AFTER_RESET">0.0</Item>
+<Item key = "ACTIVITY_MAIN">home.jmstudios.calc.Main</Item>
+<Item key = "ACTIVITY_SETTINGS">home.jmstudios.calc.Preferences</Item>
+<Item key = "PACKAGE_TARGET">home.jmstudios.calc</Item>
+</Constants>
